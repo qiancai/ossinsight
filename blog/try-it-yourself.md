@@ -10,7 +10,7 @@ In this tutorial, we will provide you with a piece of sample data of all GitHub 
 
 ## Sign up for a TiDB Cloud account (Free)
 
-1. Click [here](https://tidbcloud.com/signup) to sign up for a TiDB Cloud account free of charge. 
+1. Click [here](https://tidbcloud.com/free-trial) to sign up for a TiDB Cloud account free of charge. 
 2. [Log in](https://tidbcloud.com/?__hstc=86493575.35e9113e934f84907657eac98c81808d.1645076526216.1646808171218.1646883397864.20&__hssc=86493575.6.1646883397864&__hsfp=2077185778) to your account.
 
 ## Create a TiDB Developer Tier cluster (Free)
